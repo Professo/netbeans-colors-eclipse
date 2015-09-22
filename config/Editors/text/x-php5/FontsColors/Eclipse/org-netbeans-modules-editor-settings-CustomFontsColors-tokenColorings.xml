@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.1//EN" "http://www.netbeans.org/dtds/EditorFontsColors-1_1.dtd">
+<fontscolors>
+    <fontcolor name="mod-method">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="comment" name="mod-annotation-type">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="uncovered" name="uncovered"/>
+    <fontcolor name="mod-deprecated" strikeThrough="black"/>
+    <fontcolor bgColor="ffeceba3" name="mark-occurrences"/>
+    <fontcolor default="field" foreColor="ff0000c0" name="mod-field"/>
+    <fontcolor foreColor="ff6c3d03" name="heredocdelimiter"/>
+    <fontcolor foreColor="red" name="phpopenclose">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="covered" name="covered"/>
+    <fontcolor default="constant" name="constant">
+        <font style="italic"/>
+    </fontcolor>
+    <fontcolor default="keyword" foreColor="ff7f0055" name="keyword">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor name="mod-static">
+        <font style="italic"/>
+    </fontcolor>
+    <fontcolor default="number" foreColor="magenta" name="number"/>
+    <fontcolor default="partial" name="partial"/>
+    <fontcolor default="inferred" name="inferred"/>
+    <fontcolor default="operator" name="operator"/>
+    <fontcolor foreColor="ff005032" name="mod-class"/>
+    <fontcolor name="mod-unused" waveUnderlined="ff999999"/>
+    <fontcolor default="comment" name="commentline"/>
+    <fontcolor default="string" foreColor="ff0000c0" name="string"/>
+    <fontcolor name="mod-custom1"/>
+    <fontcolor default="comment" foreColor="ff7f9fbf" name="phpdockeyword">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="comment" foreColor="ff3f55bf" name="comment"/>
+    <fontcolor default="identifier" name="identifier"/>
+    <fontcolor foreColor="black" name="variable"/>
+    <fontcolor default="separator" name="separator"/>
+</fontscolors>
